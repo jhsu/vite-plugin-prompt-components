@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="180" src="https://github.com/jhsu/vite-plugin-prompt-components/blob/main/usage.png?raw=true" alt="Vite Plugin Prompt Component usage">
+	<img width="640" src="https://github.com/jhsu/vite-plugin-prompt-components/blob/main/usage.png?raw=true" alt="Vite Plugin Prompt Component usage">
 </p>
 <br/>
 
