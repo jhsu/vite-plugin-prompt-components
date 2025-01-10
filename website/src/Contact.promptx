@@ -1,0 +1,3 @@
+A form that asks for email and a short text message. Pressing the submit button should trigger a submit action.
+
+After submitted, tell the user that someone will get back to them within 24 hours.
