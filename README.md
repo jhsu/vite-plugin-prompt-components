@@ -5,7 +5,7 @@
 
 # Vite Plugin Prompt Components
 
-See [`vite-plugin-prompt-components` documentation](packages\vite-plugin-prompt-components\README.md)
+See [`vite-plugin-prompt-components` documentation](packages/vite-plugin-prompt-components/README.md)
 
 ## Overview
 
